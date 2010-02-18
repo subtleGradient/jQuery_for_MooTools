@@ -14,6 +14,8 @@ Includes: |
 
 Date: Sat Feb 13 22:33:48 2010 -0500
 
+authors: "The jQuery Core Developers"
+
 provides: [jQuery, $]
 ...
 */
